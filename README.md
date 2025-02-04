@@ -1,4 +1,5 @@
 ## Hi there 👋
+- <img src="https://komarev.com/ghpvc/?username=ygshberwal" alt="Visitor Count" />
 - 👋 Hi, I’m Yogesh Berwal
 - 👀 I’m interested in AI, ML, Web Devlopment
 - 🌱 I’m currently pursuing MTech in CSE at IIT Mandi
