@@ -1,40 +1,57 @@
-## Hi there 👋
-- <img src="https://komarev.com/ghpvc/?username=ygshberwal" alt="Visitor Count" />
-- 👋 Hi, I’m Yogesh Berwal
-- 👀 I’m interested in AI, ML, Web Devlopment
-- 🌱 I’m currently pursuing MTech in CSE at IIT Mandi
-- 💞️ I’m looking to collaborate on Web Dev technologies or ML Projects
-- 📫 How to reach me [@Linkedin](https://www.linkedin.com/in/ygshberwal/ ) or [mail](yogeshberwal266@gmail.com)
+# Hi there, I'm Yogesh Berwal 👋
 
-<!--
-**Ygshberwal/Ygshberwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ygshberwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...z
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 M.Tech (Computer Science & Engineering) @ **IIT Mandi**
+- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Web Development**
+- 🌱 Currently learning **LLMs, Deep Learning, and Full-Stack Development**
+- 🤝 Open to collaborating on **AI/ML**, **Open Source**, and **Web Development** projects
+- 💬 Ask me about **Python, C++, Machine Learning, DSA, and Web Development**
 
-**Contacts**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ygshberwal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ygshberwal?trk=profile-badge">Yogesh Berwal</a></div> <a href="https://www.instagram.com/ygshberwal26/"><img align="left" alt="Yogesh's Insta" width="26px" src="https://github.com/ygshberwal/ygshberwal/blob/main/download.jpg">Ygshberwal</a>
-<br><br>
-**Languages that I use frequently**  
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+---
 
-<br>
-<br>
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,git,github,linux,vscode,tensorflow,pytorch&perline=7"/>
+</p>
+
+---
+
+## 📫 Connect with Me 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ygshberwal/ 
+- 📧 **Email:** <a href="mailto:yogeshberwal266@gmail.com">yogeshberwal266@gmail.com</a>
+- 📷 **Instagram:** https://www.instagram.com/ygshberwal26/
+- ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ygshberwal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygshberwal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ygshberwal&theme=github-dark&hide_border=true"/>
+</p>
+
+---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ygshberwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ygshberwal">
+
+### ✨ Quote
+
+> *"Code. Learn. Build. Repeat."*
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
